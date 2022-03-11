@@ -1,5 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansikataria&style=flat-square" alt="mansikataria" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansikataria&style=flat-square" alt="mansikataria" /> </p>
+-->
 <h1 align="center">Hi 👋, I'm Mansi</h1>
 <h3 align="center">ML Engineer @dxtera</h3>
 
@@ -7,23 +7,23 @@
 
 <div align="center">
     <a href="https://github.com/mansikataria">
-        <img src="https://github.com/mansikataria/mansikataria/blob/master/icons/github.png" width="3%"/>
+        <img src="https://github.com/mansikataria/mansikataria/blob/main/icons/github.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://twitter.com/_mansi___">
-        <img src="https://github.com/mansikataria/mansikataria/blob/master/icons/twitter.png" width="3%"/>
+        <img src="https://github.com/mansikataria/mansikataria/blob/main/icons/twitter.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://www.linkedin.com/in/mansirkataria/">
-        <img src="https://github.com/mansikataria/mansikataria/blob/master/icons/linkedin.png" width="3%"/>
+        <img src="https://github.com/mansikataria/mansikataria/blob/main/icons/linkedin.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://medium.com/@zoomout">
-        <img src="https://github.com/mansikataria/mansikataria/blob/master/icons/medium.png" width="3%" />
+        <img src="https://github.com/mansikataria/mansikataria/blob/main/icons/medium.png" width="3%" />
     </a>
     <img width="3%" />
     <a href="https://www.kaggle.com/mansikataria">
-        <img src="https://github.com/mansikataria/mansikataria/blob/master/icons/kaggle.png" width="3%"/>
+        <img src="https://github.com/mansikataria/mansikataria/blob/main/icons/kaggle.png" width="3%"/>
     </a>
 </div>
 
@@ -41,11 +41,11 @@
 - [makesense.ai](https://www.makesense.ai/) - Free to use online tool for labelling photos.
 - [onemetric](https://skalskip.github.io/onemetric/) - Metrics Library to Evaluate Machine Learning Algorithms in Python.
 -->
-### Latest blogs posts
+### My Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Detect Tip of Tongue using OpenCV](https://zoomout.medium.com/detect-tip-of-tongue-using-opencv-9d15e0b18c3)
 - [A ConvNet for the 2020s](https://zoomout.medium.com/a-convnet-for-the-2020s-aa74632b4c2)
-- [Chess, rolls or basketball? Let’s create a custom object detection model](https://towardsdatascience.com/chess-rolls-or-basketball-lets-create-a-custom-object-detection-model-ef53028eac7d?source=rss-11b65705ec0------2)
+- [How to use facial landmarks obtained from dlib](https://zoomout.medium.com/how-to-use-facial-landmarks-obtained-from-dlib-b82129e5b352)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
