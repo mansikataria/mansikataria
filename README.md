@@ -1,4 +1,70 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansikataria&style=flat-square" alt="mansikataria" /> </p>
+
+<h1 align="center">Hi 👋, I'm Mansi</h1>
+<h3 align="center">ML Engineer @dxtera</h3>
+
+<br/>
+
+<div align="center">
+    <a href="https://github.com/mansikataria">
+        <img src="https://github.com/mansikataria/mansikataria/blob/master/icons/github.png" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://twitter.com/_mansi___">
+        <img src="https://github.com/mansikataria/mansikataria/blob/master/icons/twitter.png" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://www.linkedin.com/in/mansirkataria/">
+        <img src="https://github.com/mansikataria/mansikataria/blob/master/icons/linkedin.png" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://medium.com/@zoomout">
+        <img src="https://github.com/mansikataria/mansikataria/blob/master/icons/medium.png" width="3%" />
+    </a>
+    <img width="3%" />
+    <a href="https://www.kaggle.com/mansikataria">
+        <img src="https://github.com/mansikataria/mansikataria/blob/master/icons/kaggle.png" width="3%"/>
+    </a>
+</div>
+
+<br/>
+<br/>
+
+<p align="center">
+<img width="50%" src=https://github-readme-stats.vercel.app/api?username=skalskip&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true />
+<img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=SkalskiP&hide_border=true" />
+</p>
+
+<!--
+### Open source
+
+- [makesense.ai](https://www.makesense.ai/) - Free to use online tool for labelling photos.
+- [onemetric](https://skalskip.github.io/onemetric/) - Metrics Library to Evaluate Machine Learning Algorithms in Python.
+-->
+### Latest blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Let’s code Convolutional Neural Network in plain NumPy](https://towardsdatascience.com/lets-code-convolutional-neural-network-in-plain-numpy-ce48e732f5d5?source=rss-11b65705ec0------2)
+- [Knowing What and Why? — Explaining Image Classifier Predictions](https://towardsdatascience.com/knowing-what-and-why-explaining-image-classifier-predictions-680a15043bad?source=rss-11b65705ec0------2)
+- [Chess, rolls or basketball? Let’s create a custom object detection model](https://towardsdatascience.com/chess-rolls-or-basketball-lets-create-a-custom-object-detection-model-ef53028eac7d?source=rss-11b65705ec0------2)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<!-- <p align="center">
+  <img src="./icons/aws.svg" alt="aws" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+  <img src="./icons/docker.svg" alt="docker" width="40" height="40"/> 
+  <img src="./icons/typescript.svg" alt="typescript" width="40" height="40"/>
+  <img src="./icons/react.svg" alt="react" width="40" height="40"/> 
+  <img src="./icons/redux.svg" alt="redux" width="40" height="40"/>
+  <img src="./icons/python.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="./icons/scala.svg" alt="scala" width="40" height="40"/>
+</p>  -->
+
+
 
 <!--
 **mansikataria/mansikataria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
