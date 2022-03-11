@@ -43,8 +43,8 @@
 -->
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Let’s code Convolutional Neural Network in plain NumPy](https://towardsdatascience.com/lets-code-convolutional-neural-network-in-plain-numpy-ce48e732f5d5?source=rss-11b65705ec0------2)
-- [Knowing What and Why? — Explaining Image Classifier Predictions](https://towardsdatascience.com/knowing-what-and-why-explaining-image-classifier-predictions-680a15043bad?source=rss-11b65705ec0------2)
+- [Detect Tip of Tongue using OpenCV](https://zoomout.medium.com/detect-tip-of-tongue-using-opencv-9d15e0b18c3)
+- [A ConvNet for the 2020s](https://zoomout.medium.com/a-convnet-for-the-2020s-aa74632b4c2)
 - [Chess, rolls or basketball? Let’s create a custom object detection model](https://towardsdatascience.com/chess-rolls-or-basketball-lets-create-a-custom-object-detection-model-ef53028eac7d?source=rss-11b65705ec0------2)
 <!-- BLOG-POST-LIST:END -->
 
